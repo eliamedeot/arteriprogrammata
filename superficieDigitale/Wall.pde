@@ -4,14 +4,14 @@
  Spring 2011
  Box2DProcessing example: ApplyForceAttractMouse
  
- This file is part of Superficie magnetica.
+ This file is part of Superficie digitale.
  
- Superficie magnetica is free software: you can redistribute it and/or modify
+ Superficie digitale is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published
  by the Free Software Foundation, either version 3 of the License,
  or (at your option) any later version.
  
- Superficie magnetica is distributed in the hope that it will be useful,
+ Superficie digitale is distributed in the hope that it will be useful,
  but WITHOUT ANY WARRANTY; without even the implied warranty
  of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
  See the GNU General Public License for more details.

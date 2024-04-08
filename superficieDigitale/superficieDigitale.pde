@@ -4,7 +4,7 @@
  Spring 2011
  Box2DProcessing example: ApplyForceAttractMouse
  
- Superficie magnetica
+ Superficie digitale
  Copyright 2024 Davide Boriani & Elia Medeot
  
  This program is free software: you can redistribute it and/or modify
