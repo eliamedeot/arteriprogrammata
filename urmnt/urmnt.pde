@@ -1,6 +1,6 @@
 /*
  URMNT
- Copyright 2024 Archivio Devecchi & Elia Medeot
+ Copyright 2024 Archivio Gabriele Devecchi & Elia Medeot
  
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as  published
